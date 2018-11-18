@@ -1,0 +1,9 @@
+
+
+*.txt
+datos/
+estructura/
+tmp/
+sftp-config.json
+config/credenciales.r
+config/credenciales.py
